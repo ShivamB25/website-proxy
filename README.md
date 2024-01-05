@@ -81,4 +81,4 @@ The application currently does not support:
 
 ## License
 
-This project is licensed under the [INSERT LICENSE HERE] - see the LICENSE.md file for details
+This project is licensed under the MIT - see the LICENSE.md file for details
