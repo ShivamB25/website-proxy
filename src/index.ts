@@ -2,7 +2,6 @@
 import express from 'express';
 import { setupProxyMiddleware } from './proxy';
 import dotenv from 'dotenv';
-import './websocket';  // Import the websocket client to start it
 
 dotenv.config();
 
